@@ -1,5 +1,3 @@
-Here is the English version of the professional README file for your project. You can use this for the international audience on your GitHub repository:
-
 ⚡ NovaDebloat - Advanced Windows Performance & Privacy Optimization Tool ⚡
 Developer: Kadir (made by Kadir) | Version: v1.2.0 | License: MIT Open Source License
 
